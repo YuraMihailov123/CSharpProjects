@@ -1,0 +1,9 @@
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\bin\Debug\AppCSharp.exe.config
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\bin\Debug\AppCSharp.exe
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\bin\Debug\AppCSharp.pdb
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csprojResolveAssemblyReference.cache
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.Form1.resources
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.Properties.Resources.resources
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.csproj.GenerateResource.Cache
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.exe
+c:\users\sodrk\documents\visual studio 2015\Projects\AppCSharp\AppCSharp\obj\Debug\AppCSharp.pdb
